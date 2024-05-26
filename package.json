@@ -1,0 +1,18 @@
+{
+  "name": "softuni-cubicle",
+  "version": "1.0.0",
+  "description": "SoftUni course project workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
